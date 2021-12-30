@@ -5,8 +5,8 @@
 ### Find me
 
 - [My Blog](https://blog.yfun.top)
-- [Twitter](https://twitter.com/OhhhCKY)
-- [Telegram Channel](https://t.me/s/always_explore)
+- ~~[Twitter](https://twitter.com/OhhhCKY)~~
+- ~~[Telegram Channel](https://t.me/s/always_explore)~~
 
 ---
 
