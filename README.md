@@ -20,7 +20,8 @@
 ### 作品 | Works
 
 - [yfun-lab/gh-worker-kv](https://github.com/yfun-lab/gh-worker-kv): 将 GitHub 仓库内的 JSON 文件作为 KV 数据库。
-- [hifun-team/hexo-theme-miracle](https://github.com/hifun-team/hexo-theme-miracle): 🎉 A clean and lightweight single-column theme for Hexo.
+- [oCoke/hexo-theme-miracle](https://github.com/oCoke/hexo-theme-miracle): 🎉 A clean and lightweight single-column theme for Hexo.
+- [ESHexoN/ESHexoN](https://github.com/ESHexoN/ESHexoN): 简洁、强大的 Hexo 在线编辑器 | A Powerful Manager For Hexo.
 - &...
 
 ---
