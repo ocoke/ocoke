@@ -8,6 +8,7 @@
 - [Email](mailto:awa@outlook.ie)
 - [GitHub](https://github.com/oCoke)
 - [Join Our Discord Chat!!](https://discord.gg/PBSSM7KsdF)
+- [Subcribe My Blog (RSS)](https://blog.yfun.top/atom.xml)
 
 ### 工具 | Tools
 
