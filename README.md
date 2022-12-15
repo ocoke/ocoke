@@ -7,6 +7,7 @@
 - [My Blog](https://blog.yfun.top)
 - [Email](mailto:awa@outlook.ie)
 - [GitHub](https://github.com/oCoke)
+- [Join Our Discord Chat!!](https://discord.gg/PBSSM7KsdF)
 
 ### 工具 | Tools
 
