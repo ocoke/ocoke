@@ -13,7 +13,7 @@
 ### 工具 | Tools
 
 - JavaScript, Node.js, Python & a little PHP.
-- Cloudflare Workers, Deno, Heroku & Azure.
+- Cloudflare Workers, Deno Deploy, Deta, Heroku & Azure.
 
 ### 捐赠 | Donate
 
@@ -24,6 +24,8 @@
 - [yfun-lab/gh-worker-kv](https://github.com/yfun-lab/gh-worker-kv): 将 GitHub 仓库内的 JSON 文件作为 KV 数据库。
 - [oCoke/hexo-theme-miracle](https://github.com/oCoke/hexo-theme-miracle): 🎉 A clean and lightweight single-column theme for Hexo.
 - [ESHexoN/ESHexoN](https://github.com/ESHexoN/ESHexoN): 简洁、强大的 Hexo 在线编辑器 | A Powerful Manager For Hexo.
+- [detalkjs/server](https://github.com/detalkjs/server): 🎉 Detalk is a simple comment plugin based on Deta Micros and Deta Bases. | 简单的评论插件，部署于 Deta。
+- [detalkjs/client](https://github.com/detalkjs/client): ⚡ The fastest way to add Detalk (Based on Deta) to your website. | 将 Detalk (Based on Deta) 加入你的网站。
 - &...
 
 ---
