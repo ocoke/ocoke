@@ -34,7 +34,7 @@
 
 > 抵制正在 🇺🇦 乌克兰境内发生的不正义战争。
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://stand-with-ukraine.pp.ua)
 
 
 <p align="center">
