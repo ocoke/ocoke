@@ -20,7 +20,6 @@
 
 - [oCoke/CranSurvey](https://github.com/oCoke/CranSurvey): 🗒️ Add a prompt window to collect surveys from your website. Based on Nitro, supports Serverless deployment, is compatible with multiple types of database.
 - [oCoke/hexo-theme-miracle](https://github.com/oCoke/hexo-theme-miracle): 🎉 A clean and lightweight single-column theme for Hexo.
-- [ESHexoN/ESHexoN](https://github.com/ESHexoN/ESHexoN): 简洁、强大的 Hexo 在线编辑器 | A Powerful Manager For Hexo.
 - [detalkjs/server](https://github.com/detalkjs/server): 🎉 Detalk is a simple comment plugin based on Deta Micros and Deta Bases. | 简单的评论插件，部署于 Deta。
 - [detalkjs/client](https://github.com/detalkjs/client): ⚡ The fastest way to add Detalk (Based on Deta) to your website. | 将 Detalk (Based on Deta) 加入你的网站。
 - &...
