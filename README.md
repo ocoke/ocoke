@@ -1,4 +1,4 @@
-### Hi there 👋, this is CK Yu.
+### Hi there 👋
 
 
 
