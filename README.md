@@ -8,7 +8,7 @@
 | Something About Me | Details |
 | :-: | :-: |
 | My GitHub Status| ![](https://github-readme-stats.mrdulin.vercel.app/api?username=oCoke&show_icons=true&hide_border=true) |
-| I'm currently listening to | ![](https://webstack-screenshot.vercel.app/?url=https%3A%2F%2Fitsplaying.deno.dev%2Fcard%3Fid%3D31ldqmkw53rigxjzgmf5wht465u4&viewport=1200x600&timeout=0&cache=false) |
+| I'm currently listening to | [![](https://webstack-screenshot.vercel.app/?url=https%3A%2F%2Fitsplaying.deno.dev%2Fcard%3Fid%3D31ldqmkw53rigxjzgmf5wht465u4&viewport=1200x600&timeout=0&cache=false)](https://github.com/ocoke/itsplaying) |
 <!--
 <p align="center">
 <img src="">
