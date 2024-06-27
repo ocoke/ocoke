@@ -2,7 +2,7 @@
 
 
 
-[爱发电 / Afadian.net](https://afdian.net/@ocoke)
+<!-- [爱发电 / Afadian.net](https://afdian.net/@ocoke) -->
 
 
 | Something About Me | Details |
